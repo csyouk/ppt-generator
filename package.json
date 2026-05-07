@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  },
+  "dependencies": {
+    "mermaid-cli": "^0.2.4"
+  }
+}

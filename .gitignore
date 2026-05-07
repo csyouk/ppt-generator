@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.cache/
+*.pptx
+*.pdf
+.venv/
+venv/
+.env
+.DS_Store
+node_modules/

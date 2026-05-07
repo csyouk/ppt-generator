@@ -1,0 +1,31 @@
+# ─────────────────────────────────────────────────────────
+# 브랜드 설정 — 이 파일만 수정하면 전체 디자인이 바뀝니다.
+# ─────────────────────────────────────────────────────────
+
+brand:
+  # 회사/프로젝트 이름 (footer에 표시됨)
+  name: "비개발자 웹+AI 교육"
+
+  # 브랜드 컬러 — primary 하나만 정해도 됨 (나머지는 자동 보정)
+  primary: "#1E2761"      # 메인 컬러 (다크 배경, 강조 요소)
+  accent: "#F96167"       # 포인트 컬러 (불릿, 강조 텍스트)
+  # secondary, ink, paper, muted는 비워두면 primary 기반으로 자동 생성됨
+  # secondary: "#CADCFC"
+  # ink: "#1A1A1A"        # 본문 텍스트
+  # paper: "#FFFFFF"      # 배경
+  # muted: "#6B7280"      # 부연 텍스트
+
+# 폰트 (시스템에 설치된 폰트여야 함)
+fonts:
+  heading: "Pretendard"   # 또는 "Noto Sans KR", "맑은 고딕"
+  body: "Pretendard"
+  mono: "D2Coding"        # 또는 "Consolas", "Cascadia Code"
+
+# 슬라이드 크기 (16:9 기준)
+slide:
+  width_inches: 13.333
+  height_inches: 7.5
+
+# 페이지 번호 표시 여부
+show_page_numbers: true
+show_footer: true
